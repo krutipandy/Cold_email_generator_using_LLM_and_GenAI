@@ -1,0 +1,9 @@
+flask
+langchain-google-genai
+langchain-community
+langchain-core
+python-dotenv
+chromadb
+pandas
+beautifulsoup4
+lxml
