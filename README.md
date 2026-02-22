@@ -107,7 +107,7 @@ cold_email_generator/
 ├── portfolio.py          # ChromaDB vector store + portfolio matching
 ├── utils.py              # Web scraping & text cleaning utilities
 ├── my_portfolio.csv      # Your portfolio data (tech stack + project links)
-├── .env                  # API keys (Groq API key)
+├── .sample.env           # this is the sample shown for using API keys (Groq API key)
 └── README.md
 ```
 
